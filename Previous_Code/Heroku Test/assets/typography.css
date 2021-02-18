@@ -1,0 +1,11 @@
+body {
+    font-family: 'Monaco',monospace,sans-serif;
+}
+h1, h2, h4, h5, h6 {
+    color: #ff9d00;
+    text-align: center;
+}
+h3 {
+    color: #003cfff3;
+    text-align: center;
+}

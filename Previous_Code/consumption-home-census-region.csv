@@ -1,0 +1,11 @@
+"Average annual electricity consumption by type of home and census region, 2015"
+kilowatthours,,,,
+"Source: U.S. Energy Information Administration, <em>2015 Residential Energy Consumption Survey</em>",,,,
+,,,,
+,Northeast,Midwest,South,West
+all homes,8211,9567,13895,8525
+single-family detached,10599,10754,15819,10330
+single-family attached,7202,8042,11063,6816
+"apartment, 2-4 units",6334,6143,8919,5173
+"apartment, 5 or > units",4120,5536,8652,4581
+mobile homes,10604,12815,14113,8919

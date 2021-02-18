@@ -1,0 +1,51 @@
+State,Avg use/mo. (kWh),Avg Price (¢/kWh),Avg bill ($/mo.),Avg household size (sq ft),Monthly cost per ft²,Region
+Alabama,1201,12.53,150.45,1800,0.08,South
+Alaska,555,22.92,127.29,1789,0.07,Pacific
+Arizona,1014,12.43,126.09,1821,0.07,West
+Arkansas,1118,9.8,109.46,1792,0.06,South
+California,532,19.15,101.92,1625,0.06,West
+Colorado,682,12.18,83.07,2126,0.04,West
+Connecticut,689,21.87,150.71,1804,0.08,Northeast
+Delaware,950,12.55,119.16,1800,0.07,South
+Florida,1108,11.7,129.65,1694,0.08,South
+Georgia,1121,11.76,131.84,1963,0.07,South
+Hawaii,525,32.06,168.21,1309,0.13,Pacific
+Idaho,949,9.89,93.83,1932,0.05,West
+Illinois,709,13.03,92.37,1632,0.06,Midwest
+Indiana,960,12.58,120.74,1742,0.07,Midwest
+Iowa,867,12.46,108.04,1550,0.07,Midwest
+Kansas,891,12.71,113.26,1782,0.06,Midwest
+Kentucky,1112,10.8,120.08,1750,0.07,South
+Louisiana,1232,9.8,120.7,1786,0.07,South
+Maine,562,17.89,100.53,1663,0.06,Northeast
+Maryland,975,13.12,127.92,1920,0.07,South
+Massachusetts,574,21.92,125.89,1744,0.07,Northeast
+Michigan,637,15.74,100.23,1530,0.07,Midwest
+Minnesota,759,13.04,99.02,1828,0.05,Midwest
+Mississippi,1206,11.27,135.87,1879,0.07,South
+Missouri,1058,11.14,117.82,1650,0.07,Midwest
+Montana,857,11.13,95.43,2040,0.05,West
+Nebraska,1004,10.77,108.08,1714,0.06,Midwest
+Nevada,890,12,106.83,1528,0.07,West
+New Hampshire,599,20.05,120.04,1768,0.07,Northeast
+New Jersey,663,15.85,105.07,1740,0.06,Northeast
+New Mexico,640,12.51,80.04,1838,0.04,West
+New York,577,17.94,103.6,1764,0.06,Northeast
+North Carolina,1079,11.42,123.25,1800,0.07,South
+North Dakota,1109,10.3,114.27,1788,0.06,Midwest
+Ohio,874,12.38,108.15,1620,0.07,Midwest
+Oklahoma,1116,10.21,113.93,1746,0.07,South
+Oregon,911,11.01,100.35,1780,0.06,West
+Pennsylvania,837,13.8,115.47,1700,0.07,Northeast
+Rhode Island,560,21.73,121.62,1688,0.07,Northeast
+South Carolina,1114,12.99,144.73,1846,0.08,South
+South Dakota,1044,11.55,120.6,1984,0.06,Midwest
+Tennessee,1217,10.87,132.33,1848,0.07,South
+Texas,1140,11.76,134.07,2031,0.07,South
+Utah,727,10.4,75.63,2305,0.03,West
+Vermont,549,17.71,97.18,1815,0.05,Northeast
+Virginia,1122,12.07,135.46,1896,0.07,South
+Washington,973,9.71,94.49,1903,0.05,West
+West Virginia,1084,11.25,121.9,1714,0.07,South
+Wisconsin,674,14.18,95.52,1669,0.06,Midwest
+Wyoming,864,11.18,96.53,2052,0.05,West

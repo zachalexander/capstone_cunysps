@@ -1,0 +1,14 @@
+django
+gunicorn
+django-heroku
+requests
+dash
+pandas
+numpy
+plotly
+matplotlib
+scipy
+sympy
+seaborn
+pint
+IPython
